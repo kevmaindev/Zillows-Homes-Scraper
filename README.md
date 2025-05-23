@@ -37,10 +37,11 @@ The scraper extracts the following fields for each listing:
 
 ## Running the Scraper
 
+In the same folder of the cloned script you`re in the terminal:
 Execute the spider with:
 
 ```bash
-scrapy crawl spider
+scrapy crawl homesspider
 ```
 
 ## Output Format
